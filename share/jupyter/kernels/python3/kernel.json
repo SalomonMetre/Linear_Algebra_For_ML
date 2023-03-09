@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "/home/salomon-metre/anaconda3/envs/Linear_Algebra_For_ML/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}

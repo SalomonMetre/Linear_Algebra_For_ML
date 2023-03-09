@@ -1,0 +1,13 @@
+prefix=/home/salomon-metre/anaconda3/envs/Linear_Algebra_For_ML
+exec_prefix=/home/salomon-metre/anaconda3/envs/Linear_Algebra_For_ML
+libdir=/home/salomon-metre/anaconda3/envs/Linear_Algebra_For_ML/lib
+sharedlibdir=/home/salomon-metre/anaconda3/envs/Linear_Algebra_For_ML/lib
+includedir=/home/salomon-metre/anaconda3/envs/Linear_Algebra_For_ML/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
